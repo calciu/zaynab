@@ -1,3 +1,5 @@
+<font color="red"> Est-ce un résumé ? de quel article ...auteurs, titre etc </font>
+
 **Pharmaceutical marketing**
 
 Pharmaceutical marketing refers to the marketing of drugs, it designs
