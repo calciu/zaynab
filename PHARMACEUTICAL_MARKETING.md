@@ -1,4 +1,4 @@
-<font color="red"> Est-ce un résumé ? de quel article ...auteurs, titre etc </font>
+<spam style:"color=red"> Est-ce un résumé ? de quel article ...auteurs, titre etc </spam>
 
 **Pharmaceutical marketing**
 
