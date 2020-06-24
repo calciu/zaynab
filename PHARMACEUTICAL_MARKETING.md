@@ -1,4 +1,4 @@
-<p style:"color=red">*Est-ce un résumé ? de quel article ...auteurs, titre etc !!! *<p>
+*<p style:"color=red">Est-ce un résumé ? de quel article ...auteurs, titre etc !!! </p>*
 
 **Pharmaceutical marketing**
 
